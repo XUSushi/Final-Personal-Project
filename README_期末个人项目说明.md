@@ -33,6 +33,5 @@ grammar_cjkRuby: true
 | zhuanyi.py     | 转义处理类（ZhuanyiTrans）  |
 
 **程序处理流程**
-![文件处理流程思维导图](./images/文件处理流程思维导图.svg)
 
-大图请见《文件处理流程思维导图》
+程序处理流请见《文件处理流程思维导图》
